@@ -35,5 +35,3 @@ Each notebook:
 - Visualizes outcomes: bankrolls, drawdowns, survival
 
 ---
-
-## Folder Structure
