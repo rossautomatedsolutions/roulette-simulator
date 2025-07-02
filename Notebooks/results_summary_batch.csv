@@ -1,0 +1,6 @@
+Strategy,Spins,Final Bankroll,P&L,Win Rate,Max Drawdown,Sharpe,% Profitable Runs,% Bankruptcies,Median Spins,Median Final Bankroll
+Flat Bet,741.92,164.8,-835.2,46.3844,1058.8,-0.0727,3.0,68.0,790.0,0.0
+Martingale (Limited),188.21,164.0,-836.0,41.7473,1796.6,-0.19560000000000002,4.0,96.0,65.0,0.0
+Reverse Martingale (Limited),255.93,57.0,-943.0,46.4559,1872.6,-0.092,1.0,95.0,126.5,0.0
+Martingale (Unlimited),170.46,274.6,-725.4,42.174400000000006,2190.2,-0.1646,3.0,97.0,85.5,0.0
+Reverse Martingale (Unlimited),94.67,0.0,-1000.0,46.62349999999999,2574.0,-0.1078,0.0,100.0,95.0,0.0
